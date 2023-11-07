@@ -7,10 +7,10 @@ Meu nome é Wellington, prazer!
 Sou brasileiro, vivendo atualmente em São Paulo 🇧🇷
 
 - Estudante de programação
-- Front-end
+- Front-End
 
 ## Experiencia
-- Front-end
+- Front-End
 ## Skills
 
 ### Front-end
