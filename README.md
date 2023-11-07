@@ -25,7 +25,8 @@ Sou brasileiro, vivendo atualmente em São Paulo 🇧🇷
 
 ### Sistemas
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+  <img src="https://img.shields.io/badge/linux-F7DF1E?logo=linuxt&logoColor=white" alt="Linux"/>
+  
 </div>
 
 ### Controle de versão
