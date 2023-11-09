@@ -1,13 +1,14 @@
-#  Hello 🌎!!
-
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 Meu nome é Wellington, prazer!
 
 <br />
 
 Sou brasileiro, vivendo atualmente em São Paulo 🇧🇷
 
-- Estudante de programação
-- Front-End
+✔ Sou um entusiasta da tecnologia. <br>
+✔ Meus hobbies são jogos, animes e também gosto de gastar tempo resolvendo ctfs e estudar sobre hacking<br>
+✔ constantemente estou buscando fortalecer meu conhecimento teórico e prático nas tecnologias que estudo<br>
+✔ Estou disponível para trabalho, abaixo estão minhas skills <br>
 
 ## Experiencia
 - Front-End
