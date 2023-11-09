@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm William Sandres</h1>
+<h1 align="center">Hi 👋, I'm Wellington Guedes</h1>
 <h4 align="center"> ✨Em busca do Fullstack✨</h4>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
