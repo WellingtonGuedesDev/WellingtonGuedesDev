@@ -28,7 +28,7 @@ Sou brasileiro, vivendo atualmente em São Paulo 🇧🇷
 </div>
 
 ### linguagens que uso para resolver ctfs
-<img src="https://img.shields.io/badge/Python-06B6D4?logo=tailwindcss&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Python-06B6D4?logo=python&logoColor=white" alt="Python"/>
 
 ### Sistemas
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
