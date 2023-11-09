@@ -27,6 +27,9 @@ Sou brasileiro, vivendo atualmente em São Paulo 🇧🇷
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwindcss"/>
 </div>
 
+### Liguaguens que uso para resolver ctfs
+<img src="https://img.shields.io/badge/Python-06B6D4?logo=tailwindcss&logoColor=white" alt="Python"/>
+
 ### Sistemas
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/linux-F7DF1E?logo=linuxt&logoColor=white" alt="Linux"/>
