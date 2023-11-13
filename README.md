@@ -14,7 +14,7 @@ Sou brasileiro, vivendo atualmente em São Paulo 🇧🇷
 ✔ Estou disponível para trabalho, abaixo estão minhas skills <br>
 
 ## Experiencia
-- Front-End
+- Front- End
 ## Skills
 
 ### Front-end
