@@ -18,13 +18,10 @@ Sou brasileiro, vivendo atualmente em São Paulo 🇧🇷
 ## Skills
 
 ### Front-end
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img align='center' alt='js' src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML"/>
-  <img align='center' alt='js' src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS"/>
-  <img align='center' alt='js' src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white" alt="Javascript"/>
-  <img align='center' alt='js' src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img align='center' alt='js' src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass"/>
-  <img align='center' alt='js' src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwindcss"/>
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;"><img  align='center' alt='js'  src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+  <img align='center' alt='js'  src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+  <img align='center' alt='js'   src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
+  <img align='center' alt='js'  src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'>
   <img align='center' alt='js'  src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
   <img align='center' alt='js'  src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'>
 </div>
