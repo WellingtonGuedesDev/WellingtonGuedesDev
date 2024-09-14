@@ -25,6 +25,8 @@ Sou brasileiro, vivendo atualmente em São Paulo 🇧🇷
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwindcss"/>
+  <img align='center' alt='js'  src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
+  <img align='center' alt='js'  src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'>
 </div>
 
 ### linguagem que uso para resolver ctfs
