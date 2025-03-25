@@ -26,10 +26,10 @@ Sou brasileiro, vivendo atualmente em São Paulo 🇧🇷
 </div>
 
 ### Backend
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;"><img  align='center' alt='js'  src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img align='center' alt='js'  src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
   <img align='center' alt='js'  src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'>
-  <img align='center' alt='js'  src='[https://img.shields.io/badge/Express.js-404D59?style=for-the-badge](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)'>
+  <img align='center' alt='js'  src='https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white'>
 </div>
 
 ### linguagem que uso para resolver ctfs
