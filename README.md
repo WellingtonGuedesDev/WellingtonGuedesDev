@@ -11,7 +11,6 @@ Sou brasileiro, vivendo atualmente em São Paulo 🇧🇷
 ✔ Sou um entusiasta da tecnologia. <br>
 ✔ Meus hobbies são jogos, animes e também gosto de gastar tempo resolvendo ctfs e estudar sobre hacking<br>
 ✔ constantemente estou buscando fortalecer meu conhecimento teórico e prático nas tecnologias que estudo<br>
-✔ Estou disponível para trabalho, abaixo estão minhas skills <br>
 
 ## Experiencia
 - Front-End
@@ -21,9 +20,8 @@ Sou brasileiro, vivendo atualmente em São Paulo 🇧🇷
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;"><img  align='center' alt='js'  src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
   <img align='center' alt='js'  src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
   <img align='center' alt='js'   src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
-  <img align='center' alt='js'  src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'>
   <img align='center' alt='js'  src='https://img.shields.io/badge/Reactjs-3352ff?style=for-the-badge&logo=react&logoColor=white'>
-  
+  <img align='center' alt='js'  src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'>
 </div>
 
 ### Backend
